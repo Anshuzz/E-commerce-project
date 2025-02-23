@@ -1,4 +1,4 @@
-#Food E-Commerce Website 🛒🍔
+Food E-Commerce Website 🛒🍔
 A full-stack Food E-Commerce Platform built with Java, Spring Boot, Hibernate, and REST APIs, featuring secure authentication, cart management, and order processing.
 
 -Key Features 🚀
